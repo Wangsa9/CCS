@@ -13,7 +13,7 @@ import io
 from matplotlib.ticker import FuncFormatter
 
 st.set_page_config(
-    page_title="General Predictor 2025",
+    page_title="CCS Prediction 2025",
     page_icon="⭐",
     initial_sidebar_state="expanded"
 )
