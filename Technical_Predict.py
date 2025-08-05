@@ -47,7 +47,7 @@ def check_password():
     return False
 
 def main():
-    st.title('📈General Predictor Tool 2025📈')
+    st.title('Carbon Capture Storage Prediction 2025')
 
     if 'datasets' not in st.session_state:
         st.session_state['datasets'] = {}
