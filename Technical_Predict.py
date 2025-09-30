@@ -47,7 +47,7 @@ def check_password():
     return False
 
 def main():
-    st.title('CCS Prediction 2025')
+    st.title('Cost Prediction 2025')
 
     if 'datasets' not in st.session_state:
         st.session_state['datasets'] = {}
